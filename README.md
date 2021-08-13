@@ -1,1 +1,1 @@
-# Moscow Institute of Physics Summer School
+# Moscow Institute of Physics Computer Science Summer School
