@@ -3,7 +3,7 @@
 
 | Time limit     | 1 second           |
 | ------------- |:-------------:|
-|  Memory limitation   | 256Mb| 
+|  Memory limitation   | 64Mb| 
 | Input  | standard input or input.txt | 
 | Output | standard output or output.txt | 
 
