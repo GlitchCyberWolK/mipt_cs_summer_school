@@ -1,0 +1,1 @@
+# mipt_cs_summer_school
