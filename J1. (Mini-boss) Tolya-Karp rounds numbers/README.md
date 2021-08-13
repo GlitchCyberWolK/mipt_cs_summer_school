@@ -19,3 +19,8 @@ The only line contains two real numbers with no more than 3 decimal places (-1e3
 ## **Output format**
 
 Give an answer to the question posed, print the resulting number with 3 decimal places (as well as rounded to 3 decimal places).
+
+| Example    | Output        |
+| ------------- |:-------------:|
+|  10 3   | 3.333 |
+
