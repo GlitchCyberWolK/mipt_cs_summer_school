@@ -1,1 +1,1 @@
-# mipt_cs_summer_school
+# Moscow Institute of Physics Summer School
