@@ -21,8 +21,7 @@ exit-The program should output bye and exit.
 ## **Input format**
 
 Stack management commands are entered in the format described earlier, 1 per line.
-It is guaranteed that the set of input commands meets the following requirements: the maximum number of elements in the stack at any time does not exceed 100, all pop and back commands are correct, that is, when they are executed, at least one element is contained in the stack.
-
+It is guaranteed that the set of input commands meets the following requirements: the maximum number of elements in the stack at any time does not exceed 100.
 ## **Output format**
 
 It is required to output the protocol of working with the stack, 1 message per line.
